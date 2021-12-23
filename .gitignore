@@ -1,1 +1,4 @@
 prod-svc-creds.json
+terraform.tfstate
+terraform.tfstate.backup
+*.terraform*
